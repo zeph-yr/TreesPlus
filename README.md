@@ -3,6 +3,9 @@
 
 🌱 🌱 🌱 🌳 🌳 🌳 🌲 🌲 🌲 🌴 🌴 🌴
 
+<img src="https://github.com/zeph-yr/TreesPlus/blob/main/menu_small.png" width="750"/>
+<img src="https://github.com/zeph-yr/TreesPlus/blob/main/counter_small.png" width="500"/>
+
 ### How To Use
 1. Place `TreesPlus.dll` into your `Plugins` folder
 2. Decide how much you or your viewers wish to donate for each miss. You can change this amount any time during your streams.
@@ -12,7 +15,6 @@
 6. Toggle `Go Live!` to start and stop counting your misses.
 7. Counter values are saved and continue from your last game session.
 
-
 ### Advanced Users
 In `TreesPlus.json`, you can change:
 - Counter's position
@@ -21,3 +23,6 @@ In `TreesPlus.json`, you can change:
 
 ## About
 This is part of our (HitMeWMusic & myself) Beat Saber Community Earth Day Awareness Campaign 🌎❤️
+
+**How about planting 1000 trees?**
+<br><img src="https://github.com/zeph-yr/TreesPlus/blob/main/a_huge_forest_lol.png" width="500"/>
