@@ -5,7 +5,7 @@
 
 <img src="https://github.com/zeph-yr/TreesPlus/blob/main/counter_small.png" width="500"/>
 
-### How To Use
+## How To Use
 1. Place `TreesPlus.dll` into your `Plugins` folder
 2. Decide how much you or your viewers wish to donate for each miss. You can change this amount any time during your streams.
 3. Adjust the slider to change your donation amount. Click `Refresh Donations!` to refresh the counter immediately. Counter will also automatically refresh when the map loads if you forget to click this button.
@@ -16,7 +16,7 @@
 
 <img src="https://github.com/zeph-yr/TreesPlus/blob/main/menu_small.png" width="750"/>
 
-### Advanced Users
+## Advanced Users
 In `TreesPlus.json`, you can change:
 - Counter's position
 - Min and max of the slider
