@@ -20,7 +20,7 @@
 In `TreesPlus.json`, you can change:
 - Counter's position
 - Min and max of the slider
-- Edit the number of misses (not recommended to edit `trees_planted` and `trees_emoji`. Use `Refresh Donations!` for that)
+- Edit the number of misses (Not recommended to edit `trees_planted` and `trees_emoji`. Edit misses, then use `Refresh Donations!`)
 
 ## About
 This is part of our (HitMeWMusic & myself) Beat Saber Community Earth Day Awareness Campaign 🌎❤️
